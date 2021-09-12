@@ -50,6 +50,7 @@ table {
     text-indent: initial;
     border-spacing: 2px;
     border-color: grey;
+
 }
 
 thead {
@@ -112,4 +113,8 @@ span {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
+}
+
+label {
+    display: block;
 }
